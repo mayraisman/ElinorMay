@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">מכינים את העסק לחגים</title>
+  <desc id="desc">כרטיס שיתוף טיפוגרפי לספרינט אונליין מעשי לבעלי עסקים</desc>
+  <rect width="1200" height="630" fill="#FFF7ED"/>
+  <rect x="58" y="54" width="1084" height="522" rx="8" fill="#FFFDF8" stroke="#17211D" stroke-opacity=".18" stroke-width="4"/>
+  <rect x="58" y="54" width="1084" height="18" fill="#0D6B63"/>
+  <rect x="58" y="558" width="1084" height="18" fill="#E65245"/>
+  <text x="1080" y="150" direction="rtl" unicode-bidi="bidi-override" text-anchor="end" fill="#0D6B63" font-family="Arial, sans-serif" font-size="42" font-weight="800">ספרינט אונליין מעשי לבעלי עסקים</text>
+  <text x="1080" y="285" direction="rtl" unicode-bidi="bidi-override" text-anchor="end" fill="#17211D" font-family="Arial, sans-serif" font-size="96" font-weight="900">מכינים את העסק</text>
+  <text x="1080" y="395" direction="rtl" unicode-bidi="bidi-override" text-anchor="end" fill="#17211D" font-family="Arial, sans-serif" font-size="96" font-weight="900">לחגים</text>
+  <text x="1080" y="485" direction="rtl" unicode-bidi="bidi-override" text-anchor="end" fill="#E65245" font-family="Arial, sans-serif" font-size="46" font-weight="800">4 מפגשים · 3 תוצרים עובדים · מתחילים ב-6.9.2026</text>
+</svg>
